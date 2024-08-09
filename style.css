@@ -1,0 +1,168 @@
+body {
+    /* background-color: rgba(255,179,186,0.5); */
+    font-family: 'Calibri', 'Trebuchet MS', sans-serif;
+}
+
+.navbar {
+    background-color: #E87185;
+    color: white;
+    font-size: 25px;
+}
+
+.page-nav {
+    padding-top: 5px;
+    padding-bottom: 3px;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.padded-bar {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    background-color: rgba(232, 113, 133, 0.7); /* Adjust the background color and opacity as needed */
+    text-align: right;
+    color: aliceblue;
+}
+
+.nav-link:hover {
+    color: #F4CFE4;
+}
+
+.nav-link {
+    color: white;
+    padding-top: px;
+}
+
+.dropdown .nav-link {
+    color: white;
+    align-content: center;
+    align-items: center;
+}
+
+.dropdown .nav-link:hover {
+    color: #F4CFE4;
+}
+
+.dropdown-item:hover {
+    color: #F4CFE4;
+    background-color: #E87185;
+}
+
+.dropdown {
+    display: inline-block;
+    position: relative;
+}
+
+.dropdown-menu {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+
+.navbar-toggler {
+    background-color: #F4CFE4;
+
+}
+
+.navbar-toggler:hover {
+    background-color: #F4CFE4;
+}
+
+.toggler {
+    padding-top: 2px;
+}
+
+.secondary-colour {
+    background-color: #E87185;
+}
+
+.secondary-colour3 {
+    background-color: #fa397c;
+}
+
+.secondary-text-colour {
+    color: #E87185;
+}
+
+
+.secondary-text-colour2 {
+    color: #E87185;
+}
+
+.secondary-text-colour3 {
+    color: #fa397c;
+}
+
+.homepage-button {
+    height: 100px;
+    width: 200px;
+    border-color: black;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+hr {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.black {
+    color: #E87185;
+}
+
+a {
+    color: #E87185;
+}
+
+a:hover {
+   color: whitesmoke; 
+}
+
+.card {
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+.card:hover {
+    background-color: #F4CFE4;
+    color: #E87185;
+}
+
+.form-label {
+    color: whitesmoke;
+}
+
+.menu-btn {
+    color: whitesmoke;
+}
+
+.menu-btn:hover {
+    color: #F4CFE4;
+}
+
+label {
+    color: #E87185;
+}
+
+.footer {
+    background-color: #E87185;
+    padding: 20px;
+    margin-top: auto;
+}
+
+.footer2 {
+    background-color: #fa397c;
+    padding: 20px;
+    margin-top: auto;
+}
